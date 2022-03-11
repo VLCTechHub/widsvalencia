@@ -1,0 +1,33 @@
+<section class="section" id="schedule">
+    <h2 class="section__title">Agenda</h2>
+    <div class="schedule">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th colspan="2">Mañana</th>
+                </tr>
+            </thead>
+            {% assign morning = site.data.2022.schedule | where:"frame","morning" %}
+            {% for event in morning %}
+            <tr>
+                <td>{{ event.time }}</td>
+                <td>{{ event.name }}</td>
+            </tr>
+            {%endfor%}
+        </table>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th colspan="2">Tarde</th>
+                </tr>
+            </thead>
+            {% assign afternoon = site.data.2022.schedule | where:"frame","afternoon" %}
+            {% for event in afternoon %}
+            <tr>
+                <td>{{ event.time }}</td>
+                <td>{{ event.name }}</td>                
+            </tr>
+            {%endfor%}
+        </table>
+    </div>
+</section>

@@ -4,9 +4,9 @@ volunteers_form: ""
 mentors_form: ""
 attendees_form: https://www.eventbrite.es/e/entradas-women-in-data-science-valencia-2020-88831620769
 
-keywords: "conferencia, ciencia de datos, mujer, tecnología, Valencia, evento, marzo, UPV, MUGI, VLCTechHub"
+keywords: "conferencia, ciencia de datos, mujer, tecnología, Valencia, evento,"
 title: "WiDS Valencia"
-description: "WiDS Valencia tiene el objetivo de inspirar a personas de todos los géneros para despertarles el interés por la Ciencia de Datos, a partir de la divulgación del trabajo de mujeres científicas de datos. El evento, será celebrado el 04 de marzo."
+description: "WiDS Valencia tiene el objetivo de inspirar a personas de todos los géneros para despertarles el interés por la Ciencia de Datos, a partir de la divulgación del trabajo de mujeres científicas de datos."
 ogimage: "/assets/images/Cartel.png"
 
 sass:

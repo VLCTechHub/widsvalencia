@@ -1,0 +1,26 @@
+<section id="workshops" class="section--tertiary">
+  <div class="col">
+    <h2 class="section__title">
+      Talleres
+    </h2>
+    <div class="workshops">
+      {% for workshop in site.data.2022.workshop %}
+      <div>
+        <h3 class="workshops__title">{{workshop.name}}</h3>
+        {% if workshop.twitter != "" and workshop.twitter != nil %}
+        <p class="workshops__social">
+          <a href="https://twitter.com/{{workshop.twitter}}" target="_blank" title={{workshop.twitter}}>
+            @{{workshop.twitter}}
+            </a>
+          </p>
+          {% endif %}
+        <h4 class="workshops__local">{{workshop.local}}</h4>
+        <p class="workshops__sumary">
+          {{workshop.summary}}
+        </p>
+        <a href="" class="cta" title="Reserva tu entrada gratuita">Reserva tu entrada</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

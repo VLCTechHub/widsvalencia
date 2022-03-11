@@ -1,0 +1,35 @@
+<section id="partners" class="section--secondary">
+    <h2 class="section__title">Organizan</h2>
+    <ul class="partners__container col">
+        {% assign partners =  site.data.2022.partners | where:"status","partner"  %}
+        {% for partner in partners %}
+        <li>
+            <a href="{{partner.url}}" target="_blank">
+                <img class="partners__logo" src="{{partner.image-url}}" alt="{{partner.name}} logo">
+            </a>
+        </li>
+        {%endfor%}
+    </ul>
+    <h3 class="section__title">Colaboran</h3>
+    <ul class="partners__container col">
+        {% assign partners =  site.data.2022.partners | where:"status","sponsor"  %}
+        {% for sponsor in partners %}
+        <li>
+            <a href="{{sponsor.url}}" target="_blank">
+                <img class="partners__logo" src="{{sponsor.image-url}}" alt="{{sponsor.name}} logo">
+            </a>
+        </li>
+        {%endfor%}
+    </ul>
+    <h3 class="section__title partners__supporters">Apoyan</h3>
+    <ul class="partners__container col">
+        {% assign partners =  site.data.2022.partners | where:"status","supporter"  %}
+        {% for supporter in partners %}
+        <li>
+            <a href="{{supporter.url}}" target="_blank">
+                <img class="partners__logo--sm" src="{{supporter.image-url}}" alt="{{supporter.name}} logo">
+            </a>
+        </li>
+        {%endfor%}
+    </ul>
+</section>

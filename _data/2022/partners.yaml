@@ -1,0 +1,14 @@
+- name: "VLCTechHub"
+  image-url: "/assets/images/2022/logo-vlctechhub.png"
+  url: "https://vlctechhub.org"
+  status: "partner"
+
+- name: "Las Naves"
+  image-url: "/assets/images/2022/lasnaves.png"
+  url: "https://www.lasnaves.com"
+  status: "partner"
+
+- name: "Devscola"
+  image-url: "/assets/images/2022/logo-devscola.png"
+  url: "https://devscola.org/"
+  status: "supporter"

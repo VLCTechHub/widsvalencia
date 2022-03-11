@@ -1,0 +1,27 @@
+<section class="section--alt" id="speakers">
+  <h2 class="section__title">Ponentes de la jornada</h2>
+  <div class="card-container">
+    {% for speaker in site.data.2022.speakers %}
+    <div class="card">
+      <h3 class="card__name">{{speaker.name}}</h3>
+      <img src={{speaker.avatar}} alt={{speaker.name}} class="card__avatar">
+      <p class="card__occupation">
+        {{speaker.occupation}}
+      </p>
+      <div class="card__media">
+      {% if speaker.twitter != "" and speaker.twitter != nil %}
+        <a class="card__icon" href="https://twitter.com/{{speaker.twitter}}" target="_blank" title={{speaker.twitter}}>
+          <i aria-hidden="true" class="fa fa-twitter fa-lg"></i>
+        </a>
+      {% endif %}
+
+      {% if speaker.linkedin != "" and speaker.linkedin != nil %}
+        <a class="card__icon" href="https://www.linkedin.com/in/{{speaker.linkedin}}" target="_blank" title={{speaker.linkedin}}>
+          <i aria-hidden="true" class="fa fa-linkedin fa-lg"></i>
+        </a>
+      {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
