@@ -1,60 +1,58 @@
 ---
 ---
+
 <!DOCTYPE html>
 <html lang="es">
-
-<head>
-
+  <head>
     <!-- Meta Information -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
 
     <!-- for Google -->
-    <meta name="description" content="{{site.description}}"/>
-    <meta name="keywords" content="{{site.keywords}}"/>
-    <meta name="author" content="Ana Cecilia Vieira"/>
-    <meta name="theme-color" content="#fa0">
-    <meta name="copyright" content="Ana Cecilia Vieira"/>
-    <meta name="application-name" content="{{site.title}}"/>
+    <meta name="description" content="{{site.description}}" />
+    <meta name="keywords" content="{{site.keywords}}" />
+    <meta name="author" content="wids valencia" />
+    <meta name="theme-color" content="#fa0" />
+    <meta name="copyright" content="wids valencia" />
+    <meta name="application-name" content="{{site.title}}" />
 
     <!-- for Twitter -->
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:title" content="{{site.title}}"/>
-    <meta name="twitter:site" content="@widsvalencia">
-    <meta name="twitter:creator" content="@widsvalencia">
-    <meta name="twitter:description" content="{{site.description}}"/>
-    <meta name="twitter:image" content="{{site.ogimage}}"/>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{site.title}}" />
+    <meta name="twitter:site" content="@widsvalencia" />
+    <meta name="twitter:creator" content="@widsvalencia" />
+    <meta name="twitter:description" content="{{site.description}}" />
+    <meta name="twitter:image" content="{{site.ogimage}}" />
 
     <title>{%if page.title %}{{page.title}} | {%endif%}{{site.title}}</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/images/logo_icon.png" type="png">
+    <link rel="shortcut icon" href="assets/images/logo_icon.png" type="png" />
 
     <!-- Reset CSS -->
-    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/reset.css" />
 
-    <link rel="stylesheet" href="assets/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/lib/bootstrap.min.css" />
 
     <!-- Font awesome -->
-    <link rel="stylesheet" href="assets/lib/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/lib/font-awesome.min.css" />
 
     <!-- Our own CSS, yay! -->
-    <link rel="stylesheet" href="assets/css/style_2022.css">
+    <link rel="stylesheet" href="assets/css/style_2022.css" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
 
-</head>
-
-<body>
-{% include sections_2022/navbar.html %}
-
-{{content}}
-
-{% include sections_2022/footer.html %}
-
-</body>
-
+  <body>
+    {% include sections_2022/navbar.html %} {{content}} {% include
+    sections_2022/footer.html %}
+  </body>
 </html>
