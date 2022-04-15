@@ -1,9 +1,7 @@
 - name: "Herramientas de Web Scraping y Visualización de Datos"
   summary: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatum enim alias. Asperiores fuga id debitis libero necessitatibus impedit sit expedita obcaecati officiis architecto aut voluptatibus quasi, tenetur excepturi alias."
   local: "Visual Room"
-  twitter: ""
 
-- name: "Por confirmar"
+- name: "Análisis de imagen"
   summary: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatum enim alias. Asperiores fuga id debitis libero necessitatibus impedit sit expedita obcaecati officiis architecto aut voluptatibus quasi, tenetur excepturi alias."
   local: "Sala Factoría"
-  twitter: ""
