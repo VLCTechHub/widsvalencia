@@ -1,49 +1,49 @@
 - name: "Bienvenida WiDS Valencia"
-  day:  1
+  day: 1
   frame: "morning"
   time: "11:30"
 
 - name: "<a href='#workshops'>Taller - Herramientas de Web Scraping y Visualización de Datos</a> - Belén Agüero"
-  day:  1
+  day: 1
   frame: "morning"
   time: "11:35"
 
-- name: "<a href='#workshops'>Taller - Por confirmar</a>"
-  day:  1
+- name: "<a href='#workshops'>Taller - Análisis de imagen</a> - Ana Jimenez Pastor"
+  day: 1
   frame: "morning"
   time: "11:35"
 
 - name: "Comida y Networking Time"
-  day:  1
+  day: 1
   frame: "morning"
   time: "13:30"
 
 - name: "Bienvenida WiDS Valencia"
-  day:  1
+  day: 1
   frame: "afternoon"
   time: "16:30"
 
 - name: "Charla - Por Confirmar"
-  day:  1
+  day: 1
   frame: "afternoon"
   time: "16:35"
 
 - name: "Charla - Por Confirmar"
-  day:  1
+  day: 1
   frame: "afternoon"
   time: "17:10"
 
 - name: "Coffee Break"
-  day:  1
+  day: 1
   frame: "afternoon"
   time: "17:50"
 
 - name: "Charla - Por Confirmar"
-  day:  1
+  day: 1
   frame: "afternoon"
   time: "18:20"
 
 - name: "Charla - Por Confirmar"
-  day:  1
+  day: 1
   frame: "afternoon"
   time: "19:00"
