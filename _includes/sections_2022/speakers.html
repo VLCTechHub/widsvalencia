@@ -5,9 +5,6 @@
     <div class="card">
       <h3 class="card__name">{{speaker.name}}</h3>
       <img src={{speaker.avatar}} alt={{speaker.name}} class="card__avatar">
-      <p class="card__occupation">
-        {{speaker.occupation}}
-      </p>
       <div class="card__media">
       {% if speaker.twitter != "" and speaker.twitter != nil %}
         <a class="card__icon" href="https://twitter.com/{{speaker.twitter}}" target="_blank" title={{speaker.twitter}}>
@@ -21,6 +18,9 @@
         </a>
       {% endif %}
       </div>
+      <p class="card__bio">
+        {{speaker.bio}}
+      </p>
     </div>
     {% endfor %}
   </div>

@@ -215,11 +215,12 @@ a {
     &__avatar {
         max-width: 27rem;
         padding: 2rem;
+        border-radius: 15rem;
         @media (min-width: 768px) {
             max-width: 30rem;
         }
     }
-    &__occupation {
+    &__bio {
         font-weight: 500;
         padding-bottom: 1rem;
     }

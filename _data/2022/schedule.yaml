@@ -3,7 +3,7 @@
   frame: "morning"
   time: "11:30"
 
-- name: "<a href='#workshops'>Taller - Herramientas de Web Scraping y Visualización de Datos</a> - Belén Agüero"
+- name: "<a href='#workshops'>Taller - Extracción y visualización de datos como herramientas de comunicación</a> - Belén Agüero"
   day: 1
   frame: "morning"
   time: "11:35"
@@ -23,7 +23,7 @@
   frame: "afternoon"
   time: "16:30"
 
-- name: "Charla - Por Confirmar"
+- name: "Charla - Estadística Bayesiana para predecir el Alzheimer"
   day: 1
   frame: "afternoon"
   time: "16:35"
