@@ -346,3 +346,14 @@ a {
         }
     }
 }
+
+.dossier-partners{
+    margin-top: 7rem;
+
+    h4{
+        &:hover {
+        color: $cl-grey-02;
+    }
+    }
+    
+}
