@@ -1,0 +1,18 @@
+<section id="talks" class="section--talks">
+  <div class="col">
+    <h2 class="section__title">
+      Charlas
+    </h2>
+    <div class="workshops-talks">
+      {% for talk in site.data.2022.talks %}
+      <div>
+        <h3 class="talks__title">{{talk.name}}</h3>
+        <h4 class="talks__local">{{talk.local}}</h4>
+        <p class="talks__sumary">
+          {{talk.summary}}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

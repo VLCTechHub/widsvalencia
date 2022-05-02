@@ -1,0 +1,11 @@
+- name: "I.A creadora ¿I.A autora?"
+  summary: "Vivimos un momento de apogeo en EL SUEÑO, ese que nos acompaña desde tiempos inmemoriales: crear una inteligencia parecida a la nuestra, una inteligencia artificial, mucho han evolucionado las escuelas simbolistas y conectivistas y parece que, por fin, empezamos a rozar con los dedos ese sueño, ingenios, dibujos, creaciones, todo eso y más pueden desarrollar las inteligencias artificiales actuales. Pero (siempre tiene que haber un pero), la legalidad apareció y debemos preguntarnos ¿Qué pasará con las creaciones de las inteligencias artificiales? ¿Pueden ser autoras? ¿a quién pertenecen las creaciones? ¿Puedo usar estas obras para entrenar a mi inteligenica artificial? ¿tengo que pedir permiso?"
+  local: "Sala Polivalente"
+
+- name: "Diferencias de sexo en salud: ¿Qué dicen nuestros genes?"
+  summary: "Desde la secuenciación del genoma, la biotecnología y la bioinformática han abierto las puertas a una cantidad de información genética sin precedentes. Se ha pasado de tener que estudiar los genes aisladamente a poder analizar información de todos los genes de miles de individuos a la vez. Esto ha supuesto una revolución tanto en la manera de investigar como en los resultados, con aplicaciones a la biología, la medicina e incluso la historia. Sin embargo, aún quedan muchas preguntas por responder, por ejemplo, por qué algunas enfermedades parecen afectar de forma diferente a hombres y a mujeres. "
+  local: "Sala Polivalente"
+
+- name: "Estadística Bayesiana para predecir el Alzheimer"
+  summary: "Predecir la ocurrencia de una enfermedad como el Alzheimer es una tarea compleja en la que intervienen multitud de factores tanto genéticos como ambientales. En este contexto cobran especial relevancia las técnicas estadísticas que permiten determinar qué variables son las que mejor nos ayudan en este propósito. En particular, la Estadística Bayesiana, mediante una técnica conocida como “Ponderación Bayesiana de Modelos” (BMA por sus siglas en inglés) es la base detrás de un prototipo de aplicación web que permitirá a tu doctor o doctora establecer la probabilidad de que desarrolles Alzheimer en los próximos años, dadas tus condiciones de salud."
+  local: "Sala Polivalente"

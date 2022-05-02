@@ -183,6 +183,23 @@ a {
     }
 }
 
+.section--talks {
+    @extend .section; 
+    color: $cl-grey-01;
+    background-color: $cl-primary-dark;
+    a {
+        color: $cl-grey-01;
+        border: solid 2px $cl-grey-01;
+        &:hover {
+            color: $cl-grey-01;
+            background-color: rgba(255, 255, 255, 0.178);
+        }
+        &:focus {
+            color: $cl-grey-01;
+        }
+    }
+}
+
 .about__logo {
     max-width: 20rem;
     margin-bottom: 4rem;
@@ -267,7 +284,7 @@ a {
     }
 }
 
-.workshops {
+.workshops-talks {
     display: grid;
     grid-template-columns: 1fr;
     gap: 10rem;
@@ -293,6 +310,7 @@ a {
         padding-bottom: 4rem;
     }
 }
+
 
 .partners {
     &__container {
