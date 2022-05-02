@@ -2,6 +2,6 @@
   summary: "El objetivo del taller es realizar una introducción a algunas herramientas y técnicas de extracción y visualización de datos orientados a comunicar de manera más clara información diversa. Se presentarán herramientas sencillas y de uso gratuito que pueden facilitar el trabajo de análisis y comunicación de los datos a diferentes públicos, facilitando así su comprensión."
   local: "Visual Room"
 
-- name: "Análisis de imagen"
-  summary: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatum enim alias. Asperiores fuga id debitis libero necessitatibus impedit sit expedita obcaecati officiis architecto aut voluptatibus quasi, tenetur excepturi alias."
+- name: "Análisis de imágenes haciendo uso de técnicas de aprendizaje profundo"
+  summary: "El aprendizaje profundo ha revolucionado el sector de la medicina, especialmente, en aquellas áreas más digitalizadas como es la imagen médica radiológica. Seguro que a muchos de vosotros os han realizado alguna vez una radiografía, un TAC o una resonancia magnética. ¿Os gustaría saber cómo puede aplicarse la IA a este tipo de imágenes y contribuir en la ayuda al diagnóstico? En este taller vamos a enfatizar en las principales aplicaciones de estas técnicas y vamos a ver cómo podemos implementar una solución, basadas en redes neuronales convolucionales, para tratar de resolver un problema actual en los departamentos de radiología de los hospitales."
   local: "Sala Factoría"

@@ -1,18 +1,18 @@
+- name: "Ana Jimenez Pastor"
+  avatar: "/assets/images/2022/ana_jimenez_pastor.jpeg"
+  bio: "Ana Jiménez es ingeniera de Telecomunicaciones con máster en ingeniería Biomédica por la Universidad Politécnica de Valencia. Actualmente trabaja como Responsable de Innovación en IA en Quibim SL, empresa dedicada al uso de técnicas de aprendizaje profundo aplicadas a la imagen médica radiológica. Ana está finalizando su tesis doctoral centrada en el uso de IA y biomarcadores de imagen en el estudio de enfermedades hepáticas y metabólicas. Además, es profesora de aprendizaje profundo en el CIPFP de Mislata. Ana ha participado y coordinado diferentes proyectos europeos H2020 centrados en el estudio del cáncer a través de la IA y el análisis de imagen. Es autora de más de 10 publicaciones científicas y capítulos de libro, habiendo presentado su investigación en diferentes congresos nacionales e internacionales."
+  twitter: "https://twitter.com/ajimenez_pastor"
+  linkedin: "https://www.linkedin.com/in/ana-jim%C3%A9nez-pastor-067593a6/"
+ 
 - name: "Anabel Forte"
   avatar: "/assets/images/2022/anabel_forte.jpeg"
-  bio: "Ponente"
+  bio: "Anabel es licenciada en Matemáticas y Estadística y Doctora en Matemáticas. Atualmente es docente e investigadora en el departamento de Estadística e Investigación Operativa en el que además es editora de la revista de divulgación estadística BEIO, además es Presidenta de la Sociedad Española de Bioestadística. Su investigación se centra en el desarrollo de técnicas estadísticas que permitan entender cual es la mejor forma de modelizar matemáticamente un proceso de interés. En esta área, ha colaborado con grupos de investigación tanto europeos como de Estados Unidos y Australia. Y en el ámbito de la divulgación Anabel, más conocida como BayesAna, participa en varios programas de radio como Raiz de 5 en Radio 5 o la tertulia científica de Pròxima Parada en la radio de APunt. También es autora del blog “BayesAna: Estadística (casi) por todas partes” que fue galardonado como mejor blog en ciencia en los Premios 20Blogs edición 2021"
   linkedin: "https://www.linkedin.com/in/anabel-forte-deltell-2385a99/"
 
-- name: "Marta Hidalgo García"
-  avatar: "/assets/images/2022/marta_hidalgo_garcia.jpeg"
-  bio: "Ponente"
-  linkedin: "https://www.linkedin.com/in/marta-r-hidalgo-457b572b/?originalSubdomain=es"
-
-- name: "Por confirmar"
-  avatar: "/assets/images/placeholder.png"
-  bio: "Ponente"
-  twitter: " "
-  linkedin: " "
+- name: "Belén Agüero"
+  avatar: "/assets/images/2022/belen-aguero.jpg"
+  bio: "Investigadora en Political Watch. Licenciada en Relaciones Internacionales por la Universidad Católica de Salta en Argentina, cuenta con un Máster en Cooperación Internacional y Gestión de Políticas Públicas, Programas y Proyectos de Desarrollo por la Universidad Internacional Menéndez Pelayo en alianza con el Instituto Ortega y Gasset, además de una especialización en Coherencia de Políticas para el Desarrollo Sostenible dictado por el UNSSC. Cuenta con experiencia en consultorías de cooperación y gestión de proyectos de donantes públicos y privados (FIIAPP, Generalitat de Catalunya, Diputació de Barcelona, Open Society Foundations). Por otro lado cuenta con experiencia, en consultorías de investigación y análisis de políticas de desarrollo, trabajando para instituciones españolas e internacionales, dentro de Political Watch destacan investigaciones realizadas para entidades de la sociedad civil como UNICEF o ISGlobal en el análisis de las aportaciones de la cooperación española a la Salud Global y a la Salud Global infantil."
+  linkedin: "https://www.linkedin.com/in/mariela-bel%C3%A9n-ag%C3%BCero-980b224b/"
 
 - name: "Inés Huertas Freire"
   avatar: "/assets/images/2022/ines_huertas_freire.jpeg"
@@ -20,14 +20,13 @@
   twitter: "https://twitter.com/quierodata?t=ZwpCZXit3AdyIDrFA8nCKg&s=09"
   linkedin: "https://www.linkedin.com/in/ineshuertas/"
 
-- name: "Belén Agüero"
-  avatar: "/assets/images/2022/belen-aguero.jpg"
-  bio: "Investigadora en Political Watch. Licenciada en Relaciones Internacionales por la Universidad Católica de Salta en Argentina, cuenta con un Máster en Cooperación Internacional y Gestión de Políticas Públicas, Programas y Proyectos de Desarrollo por la Universidad Internacional Menéndez Pelayo en alianza con el Instituto Ortega y Gasset, además de una especialización en Coherencia de Políticas para el Desarrollo Sostenible dictado por el UNSSC. Cuenta con experiencia en consultorías de cooperación y gestión de proyectos de donantes públicos y privados (FIIAPP, Generalitat de Catalunya, Diputació de Barcelona, Open Society Foundations). Por otro lado cuenta con experiencia, en consultorías de investigación y análisis de políticas de desarrollo, trabajando para instituciones españolas e internacionales, dentro de Political Watch destacan investigaciones realizadas para entidades de la sociedad civil como UNICEF o ISGlobal en el análisis de las aportaciones de la cooperación española a la Salud Global y a la Salud Global infantil."
-  linkedin: "https://www.linkedin.com/in/mariela-bel%C3%A9n-ag%C3%BCero-980b224b/"
+- name: "Marelisa Blanco"
+  avatar: "/assets/images/2022/marelisa-blanco.jpg"
+  bio: "Abogada y dibujante especializada en propiedad intelectual, profesora en distintos Master relacionados con derechos de autor y de inteligencia artificial y capitana de Akme, su punto fuerte es hacer sencillo lo complejo para ello une sus dos pasiones: el derecho y el dibujo."
+  twitter: "https://twitter.com/MarelisaBlanco"
 
-- name: "Ana Jimenez Pastor"
-  avatar: "/assets/images/2022/ana_jimenez_pastor.jpeg"
-  bio: "Tallerista"
-  twitter: "https://twitter.com/ajimenez_pastor"
-  linkedin: "https://www.linkedin.com/in/ana-jim%C3%A9nez-pastor-067593a6/"
- 
+- name: "Marta Hidalgo García"
+  avatar: "/assets/images/2022/marta_hidalgo_garcia.jpeg"
+  bio: "Investigadora del Centro de Investigación Príncipe Felipe (CIPF). Es licenciada en Matemáticas por la Universitat de València (UV), posee un Máster en Matemática Computacional por la Universitat Jaume I, y es Doctora en Computación por la Universitat Politècnica de Catalunya. Ha trabajado como docente universitaria en la UV y en diferentes centros de investigación, aplicando las matemáticas a temas como la aeronáutica o la biología. Actualmente trabaja como bioinformática en la Unidad de Bioinformática y Bioestadística del CIPF, donde investiga sobre las diferencias de sexo en salud a partir de datos genómicos y transcriptómicos."
+  linkedin: "https://www.linkedin.com/in/marta-r-hidalgo-457b572b/?originalSubdomain=es"
+
