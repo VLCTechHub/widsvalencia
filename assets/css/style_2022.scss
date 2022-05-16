@@ -272,12 +272,12 @@ a {
             color: $cl-grey-01;
             font-weight: 700;
             font-size: 2.25rem;
+            height: 4rem;
         }
         tr:nth-child(even) {
             background: $cl-grey-02;
         }
         td {
-            padding: 2rem;
             border: none;
             text-align: left;
             vertical-align: middle;
@@ -311,6 +311,10 @@ a {
     &__sumary {
         padding-bottom: 4rem;
     }
+}
+.workshops__policy {
+    margin-top: 7rem;
+    color: $text-color;
 }
 
 

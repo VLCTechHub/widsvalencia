@@ -3,12 +3,12 @@
   frame: "morning"
   time: "11:30"
 
-- name: "<a href='#workshops'>Taller - Extracción y visualización de datos como herramientas de comunicación</a> - Belén Agüero"
+- name: "<a href='#workshops'>Extracción y visualización de datos como herramientas de comunicación</a> <br>Belén Agüero"
   day: 1
   frame: "morning"
   time: "11:35"
 
-- name: "<a href='#workshops'>Taller - Análisis de imagen</a> - Ana Jimenez Pastor"
+- name: "<a href='#workshops'>Análisis de imágenes haciendo uso de técnicas de aprendizaje profundo</a> <br>Ana Jimenez Pastor"
   day: 1
   frame: "morning"
   time: "11:35"
@@ -21,29 +21,29 @@
 - name: "Bienvenida WiDS Valencia"
   day: 1
   frame: "afternoon"
-  time: "16:30"
+  time: "15:30"
 
-- name: "Charla - Estadística Bayesiana para predecir el Alzheimer"
+- name: "<a href='#talks'>Diferencias de sexo en salud: ¿Qué dicen nuestros genes? </a><br>Marta Hidalgo García"
   day: 1
   frame: "afternoon"
-  time: "16:35"
+  time: "15:35"
 
-- name: "Charla - Por Confirmar"
+- name: "<a href='#talks'>Estadística Bayesiana para predecir el Alzheimer </a><br>Anabel Forte"
   day: 1
   frame: "afternoon"
-  time: "17:10"
+  time: "16:10"
 
 - name: "Coffee Break"
   day: 1
   frame: "afternoon"
-  time: "17:50"
+  time: "16:50"
 
-- name: "Charla - Por Confirmar"
+- name: "<a href='#talks'>I.A y la responsabilidad humana </a><br>Inés Huertas"
   day: 1
   frame: "afternoon"
-  time: "18:20"
+  time: "17:20"
 
-- name: "Charla - Por Confirmar"
+- name: "<a href='#talks'>I.A creadora ¿I.A autora? </a><br>Marelisa Blanco"
   day: 1
   frame: "afternoon"
-  time: "19:00"
+  time: "18:00"
