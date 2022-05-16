@@ -239,7 +239,9 @@ a {
     }
     &__bio {
         font-weight: 300;
-        padding-bottom: 1rem;
+        padding: 2rem 1rem;
+        text-align: left;
+        width: 90%;
     }
     &__icon {
         color: $cl-grey-01;
