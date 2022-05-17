@@ -1,14 +1,29 @@
 - name: "VLCTechHub"
-  image-url: "/assets/images/2022/logo-vlctechhub.png"
+  image-url: "/assets/images/2022/organizadores/logo-vlctechhub.png"
   url: "https://vlctechhub.org"
   status: "partner"
 
 - name: "Las Naves"
-  image-url: "/assets/images/2022/lasnaves.png"
+  image-url: "/assets/images/2022/organizadores/lasnaves.png"
   url: "https://www.lasnaves.com"
   status: "partner"
 
 - name: "Devscola"
-  image-url: "/assets/images/2022/logo-devscola.png"
+  image-url: "/assets/images/2022/apoyos/logo-devscola.png"
   url: "https://devscola.org/"
   status: "supporter"
+
+- name: "NewWork"
+  image-url: "/assets/images/2022/apoyos/NewWork_SE.png"
+  url: "https://www.new-work.se/en"
+  status: "supporter"
+
+- name: "Quibim"
+  image-url: "/assets/images/2022/apoyos/Quibim.png"
+  url: "https://quibim.com/"
+  status: "supporter"
+
+- name: "BeLike"
+  image-url: "/assets/images/2022/colaboraciones/belike.png"
+  url: "https://www.belikesoftware.com/"
+  status: "sponsor"
