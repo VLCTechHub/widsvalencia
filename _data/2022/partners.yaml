@@ -8,6 +8,21 @@
   url: "https://www.lasnaves.com"
   status: "partner"
 
+- name: "BeLike"
+  image-url: "/assets/images/2022/colaboraciones/belike.png"
+  url: "https://www.belikesoftware.com/"
+  status: "sponsor"
+
+- name: "Upventure"
+  image-url: "/assets/images/2022/colaboraciones/upventure.png"
+  url: "https://upventure.es/"
+  status: "sponsor"
+
+- name: "Infoverity"
+  image-url: "/assets/images/2022/colaboraciones/infoverity.png"
+  url: "https://www.infoverity.com/"
+  status: "sponsor"
+
 - name: "Devscola"
   image-url: "/assets/images/2022/apoyos/logo-devscola.png"
   url: "https://devscola.org/"
@@ -23,7 +38,12 @@
   url: "https://quibim.com/"
   status: "supporter"
 
-- name: "BeLike"
-  image-url: "/assets/images/2022/colaboraciones/belike.png"
-  url: "https://www.belikesoftware.com/"
-  status: "sponsor"
+- name: "Qatium"
+  image-url: "/assets/images/2022/apoyos/qatium.png"
+  url: "https://qatium.com/es/"
+  status: "supporter"
+
+- name: "Realizon"
+  image-url: "/assets/images/2022/apoyos/realizon.svg"
+  url: "https://realizon.eu/"
+  status: "supporter"
