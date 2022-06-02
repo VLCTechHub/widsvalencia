@@ -47,3 +47,13 @@
   image-url: "/assets/images/2022/apoyos/realizon.svg"
   url: "https://realizon.eu/"
   status: "supporter"
+
+- name: "Political Watch"
+  image-url: "/assets/images/2022/apoyos/political-watch.png"
+  url: "https://politicalwatch.es/"
+  status: "supporter"
+
+- name: "Kairós DS"
+  image-url: "assets/images/2022/apoyos/kairos.png"
+  url: "https://www.kairosds.com/"
+  status: "supporter"
