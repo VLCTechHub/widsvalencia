@@ -322,7 +322,6 @@ a {
     &__container {
         width: 100%;
         display: flex;
-        flex-wrap: wrap;
         align-items: center;
         justify-content: space-around;
     }
@@ -330,7 +329,8 @@ a {
         max-width: 27rem;
         padding: 4rem 0;
         &--sm {
-            max-width: 13rem;
+            max-width: 15rem;
+            margin: 1rem;
         }
     }
     &__supporters {

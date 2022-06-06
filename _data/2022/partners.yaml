@@ -62,3 +62,8 @@
   image-url: "assets/images/2022/apoyos/ubb.png"
   url: "https://bioinfo.cipf.es/ubb/"
   status: "supporter"
+
+- name: "Centro de Investigación Príncipe Felipe"
+  image-url: "assets/images/2022/apoyos/principe-felipe.png"
+  url: "https://www.cipf.es"
+  status: "supporter"
