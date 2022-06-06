@@ -57,3 +57,8 @@
   image-url: "assets/images/2022/apoyos/kairos.png"
   url: "https://www.kairosds.com/"
   status: "supporter"
+
+- name: "Unidad de Bioinformática y Bioestadística de Centro de Investigación Príncipe Felipe"
+  image-url: "assets/images/2022/apoyos/ubb.png"
+  url: "https://bioinfo.cipf.es/ubb/"
+  status: "supporter"
